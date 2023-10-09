@@ -5,7 +5,7 @@ Check back in 2 years?
 
 
 
-=== Initial documentation ===
+= Initial documentation =
 
 "The moon's an arrant thief,
 And her pale fire she snatches from the sun."
@@ -35,8 +35,12 @@ And her pale fire she snatches from the sun."
 -Vladimir Nabokov, *Pale Fire*
 
 
-=== Declaration of Intent ===
+= Declaration of Intent =
+
+
 
 The Luna family of package wrappers is intended to be a well-documented and easy-to-use
 family of libraries for newer and lower-skilled Haskeller, helping bridge the gap
 between academic or textbook study of Haskell and making useful and productive programs.
+
+
