@@ -5,7 +5,7 @@ Check back in 2 years?
 
 
 
-= Initial documentation =
+# Initial documentation #
 
 "The moon's an arrant thief,
 And her pale fire she snatches from the sun."
@@ -35,7 +35,7 @@ And her pale fire she snatches from the sun."
 -Vladimir Nabokov, *Pale Fire*
 
 
-= Declaration of Intent =
+# Declaration of Intent #
 
 
 
